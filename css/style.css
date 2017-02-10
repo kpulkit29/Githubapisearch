@@ -1,0 +1,58 @@
+body{
+	font-family: 'Fira Sans Condensed';
+	background:url("https://images.unsplash.com/photo-1483356256511-b48749959172?dpr=1&auto=format&fit=crop&w=1500&h=1000&q=80&cs=tinysrgb&crop=");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+h1{
+	font-size: 60px;
+	color:green;
+}
+
+.container{
+ width: 800px;
+  margin: 0 auto;
+  margin-top:30px;
+  background: #fff;
+  height:auto;
+  padding: 15px 25px;
+  -webkit-box-shadow: 1px 2px 3px -1px rgba(0,0,0,0.4);
+  -moz-box-shadow: 1px 2px 3px -1px rgba(0,0,0,0.4);
+  box-shadow: 1px 2px 3px -1px rgba(0,0,0,0.4);
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 8px;
+}
+#ghname{
+	display:block;
+	margin-left:110px;
+	margin-top:30px;
+	width:400px;
+}
+.allrepo{
+	margin-left: 40px;
+}
+a{
+	color:white;
+	background-color: grey;
+	margin:10px;
+}
+a:hover{
+	background-color:blue;
+}
+.btn{
+	margin-left:110px;
+	margin-top:20px;
+}
+.ghuserdata{
+	margin-left: 110px;
+}
+img{
+	width:80px;
+	height:80px;
+    float:left;
+}
+#text{
+	position:relative;
+}
